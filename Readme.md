@@ -1,20 +1,30 @@
-# 🎮 Tic-Tac-Toe Game
+# Tic-Tac-Toe Game
 
-A simple Tic-Tac-Toe game built with HTML, CSS, and JavaScript. Play with a friend and see who wins!
+## Overview
 
-# 🚀 Features
+This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**. The game allows two players to take turns marking **X** and **O** on a 3x3 grid. The player who first aligns three of their marks **horizontally, vertically, or diagonally** wins the game. If all squares are filled without a winner, the game ends in a draw.
 
-. Two-player mode (X vs O)<br>
-. Shows who's turn it is<br>
-. Displays winner or draw message<br>
-. Reset button to start a new game<br>
-. Simple and clean design<br>
+## Features
 
-# 🎲 How to Play
+- Interactive 3x3 grid
+- Two-player gameplay (X vs. O)
+- Win detection and game-over messages
+- Reset button to restart the game
+- Responsive design for different screen sizes
+- Simple and elegant UI
 
-1. The game starts with Player X.
-2. Click on any empty square to place your mark (X or O).
-3. Players take turns until one wins or the board is full.
-4. If a player gets three in a row (horizontally, vertically, or diagonally), they win!
-5. If no one wins and all squares are filled, it's a draw.
-6. Click Reset to play again.
+## Technologies Used
+
+- **HTML**: For structuring the game layout
+- **CSS**: For styling and responsiveness
+- **JavaScript**: For game logic and interactivity
+
+## How to Play
+
+1. Open the `index.html` file in a web browser.
+2. Player 1 starts with **X**, and Player 2 follows with **O**.
+3. Click on an empty cell to place your mark.
+4. The game announces the winner when three marks align.
+5. Click the **Reset** button to restart the game.
+
+### Happy Coding! 🎮
