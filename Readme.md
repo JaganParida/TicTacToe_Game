@@ -13,12 +13,6 @@ This is a simple **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScript**.
 - Responsive design for different screen sizes
 - Simple and elegant UI
 
-## Technologies Used
-
-- **HTML**: For structuring the game layout
-- **CSS**: For styling and responsiveness
-- **JavaScript**: For game logic and interactivity
-
 ## How to Play
 
 1. Open the `index.html` file in a web browser.
